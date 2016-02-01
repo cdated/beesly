@@ -27,6 +27,9 @@ gem 'devise'
 # interact with bower the 'rails way'
 gem 'bower-rails'
 
+# generate test db records
+gem 'faker'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
