@@ -1,7 +1,5 @@
 #!/usr/bin/env sh
 
-cd ../beesly
-
 # List bower tasks
 bundle exec rake -T bower
 
